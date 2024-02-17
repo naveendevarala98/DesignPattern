@@ -1,4 +1,4 @@
-package LLD.BuilderPattern;
+package LLD.creational.BuilderPattern;
 
 public class Dog {
 	
